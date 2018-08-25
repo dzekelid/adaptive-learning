@@ -9,26 +9,11 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/o
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: Adaptive Learning
-created: "2018-08-24"
-modified: "2018-08-24"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/adaptive-learning/master/_listings/openminds/apis.md
 specificationVersion: "0.14"
-apis:
-- name: OpenMinds
-  x-api-slug: openminds
-  description: OpenMinds is a learning platform that transforms user content into
-    learning applications. The application is then accessible to students and tracks
-    their individual performance. The service is pre-loaded with over 5000 items for
-    language arts(grades k-8) that are aligned with Common Core standards. The API
-    can retrieve, created, edit, or delete data within a users resource folder. The
-    API uses REST calls and will return JSON or txt.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/open-minds-logo.png
-  humanURL: http://openminds.io
-  baseURL: https:///
-  tags: Adaptive Learning
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/adaptive-learning/master/_listings/openminds/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: https://api.openminds.io/

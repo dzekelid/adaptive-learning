@@ -7,22 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/218-knewto
 x-kinRank: "7"
 x-alexaRank: "164052"
 tags: Adaptive Learning
-created: "2018-08-24"
-modified: "2018-08-24"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/adaptive-learning/master/_listings/knewton/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Knewton
-  x-api-slug: knewton
-  description: Students worldwide get personalized recommendations from the most advanced
-    adaptive learning platform. Learn how Knewton can power your courses.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/218-knewton.jpg
-  humanURL: http://www.knewton.com
-  baseURL: https:///
-  tags: Adaptive Learning
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/adaptive-learning/master/_listings/knewton/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://www.knewton.com/blog
